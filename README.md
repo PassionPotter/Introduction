@@ -2,8 +2,6 @@
 
 ## 🚀 About Me
 🎓 I am a **Full Stack Web Developer** with over 5 years of experience in versatile web development.
-I also purchased my Bacheolor in **Computer Science & Engineering** in 2019.
-
 👨‍💻 I have a proven tracken record of delivering complicated features requiring high availability and reliability.
 
 In addition to being an expert software engineer I'm well versed in **devops**, **database administration**, **cyber security** and **integration with modern toolings/apis**.
@@ -12,7 +10,6 @@ I'm dedicated to understanding business needs, giving realistic estimates that I
 
 I am really enthusiastic about learning new technology.
 In 2021, I learned **Progressive Web App(PWA)**, **Micro-Frontend Architecture** and **Blockchain development & DApps**
-I got started with [**Freelancing**](https://www.freelancer.com/u/vøslavdzynia1).
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **piano**, **football**, and **swimming**.
 
